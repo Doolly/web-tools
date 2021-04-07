@@ -56,3 +56,8 @@ Install
 `sudo apt-get install ros-melodic-web-video-server`
 
 `rosrun web_video_server web_video_server`
+
+## Screenshot
+
+![webpage](./img/main.png)
+
