@@ -211,7 +211,7 @@ function App() {
                 <Contents>
                     <CameraContainer>
                         <TitleContainer>
-                            <Title>Camera | ItemStatus : {liftItemSize.toString()}</Title>
+                            <Title>Camera | ItemSize : {liftItemSize.toString()}</Title>
                         </TitleContainer>
                         <CameraImage src={CAMERA_ADDRESS}/>
                     </CameraContainer>
